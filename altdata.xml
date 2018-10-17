@@ -5,7 +5,7 @@
       <Position>Quarterback</Position>
       <Team>Minnesota</Team>
       <Number>8</Number>
-      <Joining Date>2011</Joining Date>
+      <Joining_Date>2011</Joining_Date>
       <Pts Total>127.3</Pts Total>
     </stats>
     <stats>
@@ -13,7 +13,7 @@
       <Position>Wide Receiver</Position>
       <Team>Houston</Team>
       <Number>10</Number>
-      <Joining Date>2013</Joining Date>
+      <Joining_Date>2013</Joining_Date>
       <Pts Total>125</Pts Total>
     </stats>
     <stats>
@@ -21,7 +21,7 @@
       <Position>Running Back</Position>
       <Team>San Diego</Team>
       <Number>28</Number>
-      <Joining Date>2015</Joining Date>
+      <Joining_Date>2015</Joining_Date>
       <Pts Total>162.5</Pts Total>
     </stats>
     <stats>
@@ -29,7 +29,7 @@
       <Position>Wide Receiver</Position>
       <Team>Minnesota</Team>
       <Number>19</Number>
-      <Joining Date>2013</Joining Date>
+      <Joining_Date>2013</Joining_Date>
       <Pts Total>153.2</Pts Total>
     </stats>
     <stats>
@@ -37,7 +37,7 @@
       <Position>Running Back</Position>
       <Team>New England</Team>
       <Number>26</Number>
-      <Joining Date>2018</Joining Date>
+      <Joining_Date>2018</Joining_Date>
       <Pts Total>68.8</Pts Total>
     </stats>
     <stats>
@@ -45,7 +45,7 @@
       <Position>Wide Receiver</Position>
       <Team>Los Angeles</Team>
       <Number>17</Number>
-      <Joining Date>2013</Joining Date>
+      <Joining_Date>2013</Joining_Date>
       <Pts Total>114.8</Pts Total>
     </stats>
     <stats>
@@ -53,7 +53,7 @@
       <Position>Kicker</Position>
       <Team>Baltimore</Team>
       <Number>9</Number>
-      <Joining Date>2012</Joining Date>
+      <Joining_Date>2012</Joining_Date>
       <Pts Total>59</Pts Total>
     </stats>
     <stats>
@@ -61,7 +61,7 @@
       <Position>Quarterback</Position>
       <Team>Philadelphia</Team>
       <Number>11</Number>
-      <Joining Date>2016</Joining Date>
+      <Joining_Date>2016</Joining_Date>
       <Pts Total>77.5</Pts Total>
     </stats>
     <stats>
@@ -69,7 +69,7 @@
       <Position>Running Back</Position>
       <Team>Green Bay</Team>
       <Number>33</Number>
-      <Joining Date>2017</Joining Date>
+      <Joining_Date>2017</Joining_Date>
       <Pts Total>32.9</Pts Total>
     </stats>
     <stats>
@@ -77,7 +77,7 @@
       <Position>Tight End</Position>
       <Team>Green Bay</Team>
       <Number>80</Number>
-      <Joining Date>2010</Joining Date>
+      <Joining_Date>2010</Joining_Date>
       <Pts Total>67.9</Pts Total>
     </stats>
     <stats>
@@ -85,7 +85,7 @@
       <Position>Wide Receiver</Position>
       <Team>Atlanta</Team>
       <Number>18</Number>
-      <Joining Date>2018</Joining Date>
+      <Joining_Date>2018</Joining_Date>
       <Pts Total>94.2</Pts Total>
     </stats>
     <stats>
@@ -93,7 +93,7 @@
       <Position>Running Back</Position>
       <Team>Indianapolis</Team>
       <Number>21</Number>
-      <Joining Date>2018</Joining Date>
+      <Joining_Date>2018</Joining_Date>
       <Pts Total>78.8</Pts Total>
     </stats>
     <stats>
@@ -101,7 +101,7 @@
       <Position>Wide Receiver</Position>
       <Team>Detroit</Team>
       <Number>15</Number>
-      <Joining Date>2010</Joining Date>
+      <Joining_Date>2010</Joining_Date>
       <Pts Total>95</Pts Total>
     </stats>
     <stats>
@@ -109,7 +109,7 @@
       <Position>Quarterback</Position>
       <Team>Green Bay</Team>
       <Number>12</Number>
-      <Joining Date>2005</Joining Date>
+      <Joining_Date>2005</Joining_Date>
       <Pts Total>133</Pts Total>
     </stats>
     <stats>
@@ -117,7 +117,7 @@
       <Position>Wide Receiver</Position>
       <Team>Green Bay</Team>
       <Number>17</Number>
-      <Joining Date>2013</Joining Date>
+      <Joining_Date>2013</Joining_Date>
       <Pts Total>138.7</Pts Total>
     </stats>
 </Players>

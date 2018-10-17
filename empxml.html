@@ -13,17 +13,17 @@
        var t = $('#chart').DataTable();
        $.ajax({
             type: "GET",
-            url: "empdata.xml", 
+            url: "altdata.xml", 
             dataType: "xml",
             success: function(xml) {  
-             $(xml).find('data').each(function(){  
+             $(xml).find('stats').each(function(){  
               t.row.add( [
-                $(this).find('name').text(),
-                $(this).find('designation').text(),
-                $(this).find('office').text(),
-                $(this).find('extension').text(),
+                $(this).find('Name').text(),
+                $(this).find('Position').text(),
+                $(this).find('Team').text(),
+                $(this).find('Number').text(),
                 $(this).find('joining_date').text(),
-                $(this).find('salary').text()
+                $(this).find('Pts Total').text()
               ] ).draw( false );
              });
             }
