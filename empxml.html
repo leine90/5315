@@ -16,7 +16,7 @@
             url: "empdata.xml", 
             dataType: "xml",
             success: function(xml) {  
-             $(xml).find('stats').each(function(){  
+             $(xml).find('data').each(function(){  
               t.row.add( [
                 $(this).find('name').text(),
                 $(this).find('designation').text(),
@@ -37,11 +37,11 @@
     <thead>
         <tr>
             <th>Name</th>
-            <th>Position</th>
-            <th>Team</th>
-            <th>Jersey Number</th>
+            <th>Designation</th>
+            <th>Office</th>
+            <th>Extension</th>
             <th>Joining Date</th>
-            <th>Pts Total</th>
+            <th>Salary</th>
         </tr>
     </thead>
 
