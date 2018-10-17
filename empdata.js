@@ -6,7 +6,7 @@
       "salary": "127.3",
       "joining_date": "2011",
       "Team": "Minnesota",
-      "Number": "8"
+      "extension": "8"
     },
     {
       "name": "Deandre Hopkins",
@@ -14,7 +14,7 @@
       "salary": "125",
       "joining_date": "2013",
       "Team": "Houston",
-      "Number": "10"
+      "extension": "10"
     },
     {
       "name": "Melvin Gordon",
@@ -22,7 +22,7 @@
       "salary": "162.5",
       "joining_date": "2015",
       "Team": "San Diego",
-      "Number": "28"
+      "extension": "28"
     },
     {
       "name": "Adam Thielen",
@@ -30,7 +30,7 @@
       "salary": "153.2",
       "joining_date": "2013",
       "Team": "Minnesota",
-      "Number": "19"
+      "extension": "19"
     },
     {
       "name": "Sony Michel",
@@ -38,7 +38,7 @@
       "salary": "68.8",
       "joining_date": "2018",
       "Team": "New England",
-      "Number": "26"
+      "extension": "26"
     },
     {
       "name": "Robert Woods",
@@ -46,7 +46,7 @@
       "salary": "114.8",
       "joining_date": "2013",
       "Team": "Los Angeles",
-      "Number": "17"
+      "extension": "17"
     },
     {
       "name": "Justin Tucker",
@@ -54,7 +54,7 @@
       "salary": "59",
       "joining_date": "2012",
       "Team": "Baltimore",
-      "Number": "9"
+      "extension": "9"
     },
     {
       "name": "Carson Wentz",
@@ -62,7 +62,7 @@
       "salary": "77.5",
       "joining_date": "2016",
       "Team": "Philadelphia",
-      "Number": "11"
+      "extension": "11"
     },
     {
       "name": "Aaron Jones",
@@ -70,7 +70,7 @@
       "salary": "32.9",
       "joining_date": "2017",
       "Team": "Green Bay",
-      "Number": "33"
+      "extension": "33"
     },
     {
       "name": "Jimmy Graham",
@@ -78,7 +78,7 @@
       "salary": "77.5",
       "joining_date": "2010",
       "Team": "Green Bay",
-      "Number": "80"
+      "extension": "80"
     },
     {
       "name": "Calvin Ridley",
@@ -86,7 +86,7 @@
       "salary": "94.2",
       "joining_date": "2018",
       "Team": "Atlanta",
-      "Number": "18"
+      "extension": "18"
     },
     {
       "name": "Nyheim Hines",
@@ -94,7 +94,7 @@
       "salary": "78.8",
       "joining_date": "2018",
       "Team": "Indianapolis",
-      "Number": "21"
+      "extension": "21"
     },
     {
       "name": "Golden Tate",
@@ -102,7 +102,7 @@
       "salary": "95",
       "joining_date": "2010",
       "Team": "Detroit",
-      "Number": "15"
+      "extension": "15"
     },
     {
       "name": "Aaron Rodgers",
@@ -110,7 +110,7 @@
       "salary": "133",
       "joining_date": "2005",
       "Team": "Green Bay",
-      "Number": "12"
+      "extension": "12"
     },
     {
       "name": "Devante Adams",
@@ -118,7 +118,7 @@
       "salary": "138.7",
       "joining_date": "2013",
       "Team": "Green Bay",
-      "Number": "17"
+      "extension": "17"
     }
   ]
 }
