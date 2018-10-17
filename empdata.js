@@ -3,7 +3,7 @@
     {
       "name": "Kirk Cousins",
       "designation": "QuarterBack",
-      "salary": "$127.3",
+      "salary": "127.3",
       "joining_date": "2011",
       "office": "Minnesota",
       "extension": "8"
@@ -27,7 +27,7 @@
     {
       "name": "Adam Thielen",
       "designation": "Wide Receiver",
-      "salary": "$153.2",
+      "salary": "153.2",
       "joining_date": "2013",
       "office": "Minnesota",
       "extension": "19"
@@ -35,7 +35,7 @@
     {
       "name": "Sony Michel",
       "designation": "Running Back",
-      "salary": "$68.8",
+      "salary": "68.8",
       "joining_date": "2018",
       "office": "New England",
       "extension": "26"
@@ -59,7 +59,7 @@
     {
       "name": "Carson Wentz",
       "designation": "QuarterBack",
-      "salary": "$77.5",
+      "salary": "77.5",
       "joining_date": "2016",
       "office": "Philadelphia",
       "extension": "11"
@@ -99,7 +99,7 @@
     {
       "name": "Golden Tate",
       "designation": "Wide Receiver",
-      "salary": "$95",
+      "salary": "95",
       "joining_date": "2010",
       "office": "Detroit",
       "extension": "15"
