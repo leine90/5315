@@ -89,36 +89,36 @@
       "extension": "18"
     },
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+      "name": "Nyheim Hines",
+      "designation": "Running",
+      "salary": "78.8",
+      "joining_date": "2018",
+      "office": "Indianapolis",
+      "extension": "21"
     },
     {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+      "name": "Golden Tate",
+      "designation": "Wide Receiver",
+      "salary": "$95",
+      "joining_date": "2010",
+      "office": "Detroit",
+      "extension": "15"
     },
     {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
+      "name": "Aaron Rodgers",
+      "designation": "QuarterBack",
+      "salary": "133",
+      "joining_date": "2005",
+      "office": "Green Bay",
+      "extension": "12"
     },
     {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "name": "Devante Adams",
+      "designation": "Wide Receiver",
+      "salary": "138.7",
+      "joining_date": "2013",
+      "office": "Green Bay",
+      "extension": "17"
     }
   ]
 }
