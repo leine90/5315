@@ -1,12 +1,12 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      <Name>Kirk Cousins</Name>
+      <Position>Quarterback</Position>
+      <Team>Minnesota</Team>
+      <Number>8</Number>
+      <Joining Date>2011</Joining Date>
+      <Pts Total>127.3</Pts Total>
     },
     {
       "name": "Brielle Williamson",

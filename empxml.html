@@ -13,13 +13,13 @@
        var t = $('#chart').DataTable();
        $.ajax({
             type: "GET",
-            url: "data.xml", 
+            url: "empdata.xml", 
             dataType: "xml",
             success: function(xml) {  
              $(xml).find('data').each(function(){  
               t.row.add( [
                 $(this).find('name').text(),
-                $(this).find('Position').text(),
+                $(this).find('designation').text(),
                 $(this).find('office').text(),
                 $(this).find('extension').text(),
                 $(this).find('joining_date').text(),
