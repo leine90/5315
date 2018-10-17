@@ -6,7 +6,7 @@
       "Pts": "127.3",
       "joining_date": "2011",
       "Team": "Minnesota",
-      "extension": "8"
+      "Jersey": "8"
     },
     {
       "name": "Deandre Hopkins",
@@ -14,7 +14,7 @@
       "Pts": "125",
       "joining_date": "2013",
       "Team": "Houston",
-      "extension": "10"
+      "Jersey": "10"
     },
     {
       "name": "Melvin Gordon",
@@ -22,7 +22,7 @@
       "Pts": "162.5",
       "joining_date": "2015",
       "Team": "San Diego",
-      "extension": "28"
+      "Jersey": "28"
     },
     {
       "name": "Adam Thielen",
@@ -30,7 +30,7 @@
       "Pts": "153.2",
       "joining_date": "2013",
       "Team": "Minnesota",
-      "extension": "19"
+      "Jersey": "19"
     },
     {
       "name": "Sony Michel",
@@ -38,7 +38,7 @@
       "Pts": "68.8",
       "joining_date": "2018",
       "Team": "New England",
-      "extension": "26"
+      "Jersey": "26"
     },
     {
       "name": "Robert Woods",
@@ -46,7 +46,7 @@
       "Pts": "114.8",
       "joining_date": "2013",
       "Team": "Los Angeles",
-      "extension": "17"
+      "Jersey": "17"
     },
     {
       "name": "Justin Tucker",
@@ -54,7 +54,7 @@
       "Pts": "59",
       "joining_date": "2012",
       "Team": "Baltimore",
-      "extension": "9"
+      "Jersey": "9"
     },
     {
       "name": "Carson Wentz",
@@ -62,7 +62,7 @@
       "Pts": "77.5",
       "joining_date": "2016",
       "Team": "Philadelphia",
-      "extension": "11"
+      "Jersey": "11"
     },
     {
       "name": "Aaron Jones",
@@ -70,7 +70,7 @@
       "Pts": "32.9",
       "joining_date": "2017",
       "Team": "Green Bay",
-      "extension": "33"
+      "Jersey": "33"
     },
     {
       "name": "Jimmy Graham",
@@ -78,7 +78,7 @@
       "Pts": "77.5",
       "joining_date": "2010",
       "Team": "Green Bay",
-      "extension": "80"
+      "Jersey": "80"
     },
     {
       "name": "Calvin Ridley",
@@ -86,7 +86,7 @@
       "Pts": "94.2",
       "joining_date": "2018",
       "Team": "Atlanta",
-      "extension": "18"
+      "Jersey": "18"
     },
     {
       "name": "Nyheim Hines",
@@ -94,7 +94,7 @@
       "Pts": "78.8",
       "joining_date": "2018",
       "Team": "Indianapolis",
-      "extension": "21"
+      "Jersey": "21"
     },
     {
       "name": "Golden Tate",
@@ -102,7 +102,7 @@
       "Pts": "95",
       "joining_date": "2010",
       "Team": "Detroit",
-      "extension": "15"
+      "Jersey": "15"
     },
     {
       "name": "Aaron Rodgers",
@@ -110,7 +110,7 @@
       "Pts": "133",
       "joining_date": "2005",
       "Team": "Green Bay",
-      "extension": "12"
+      "Jersey": "12"
     },
     {
       "name": "Devante Adams",
@@ -118,7 +118,7 @@
       "Pts": "138.7",
       "joining_date": "2013",
       "Team": "Green Bay",
-      "extension": "17"
+      "Jersey": "17"
     }
   ]
 }
