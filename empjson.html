@@ -11,21 +11,21 @@
         <thead>
             <tr>
                 <th>Name</th>
-                <th>Position</th>
-                <th>Team</th>
-                <th>Number</th>
+                <th>Designation</th>
+                <th>Office</th>
+                <th>Extension</th>
                 <th>Joining Date</th>
-                <th>Pts Total</th>
+                <th>Salary</th>
             </tr>
         </thead>
         <tfoot>
             <tr>
                 <th>Name</th>
-                <th>Position</th>
-                <th>Team</th>
-                <th>Number</th>
+                <th>Designation</th>
+                <th>Office</th>
+                <th>Extension</th>
                 <th>Joining Date</th>
-                <th>Pts Total</th>
+                <th>Salary</th>
             </tr>
         </tfoot>
     </table>
@@ -38,14 +38,14 @@
     <script type="text/javascript">
     $(document).ready(function() {
         $('#empTable').dataTable({
-            "ajax": "altdata.JSON",
+            "ajax": "empdata.js",
             "columns": [
                 {"data": "name"},
-                {"data": "Position"},
-                {"data": "Team"},
-                {"data": "Number"},
+                {"data": "designation"},
+                {"data": "office"},
+                {"data": "extension"},
                 {"data": "joining_date"},
-                {"data": "Pts Total"}
+                {"data": "salary"}
             ]
         });   
     });

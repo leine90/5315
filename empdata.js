@@ -1,124 +1,124 @@
 {
-  "data": [
-    {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
-    },
-    {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
-    },
-    {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
-    },
-    {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
-    },
-    {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
-    },
-    {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
-    },
-    {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
-    },
-    {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
-    },
-    {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
-    },
-    {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
-    },
-    {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
-    },
-    {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
-    },
-    {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
-    },
-    {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
-    },
-    {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
-    }
-  ]
-}
+   "stats": [
+      {
+         "Name": "Kirk Cousins",
+         "Position": "Quarterback",
+         "Team": "Minnesota",
+         "Number": 8,
+         "Joining Date": 2011,
+         "Pts Total": 127.3
+       },
+       {
+         "Name": "Deandre Hopkins",
+         "Position": "Wide Receiver",
+         "Team": "Houston",
+         "Number": 10,
+         "Joining Date": 2013,
+         "Pts Total": 125
+       },
+       {
+         "Name": "Melvin Gordon",
+         "Position": "Running Back",
+         "Team": "San Diego",
+         "Number": 28,
+         "Joining Date": 2015,
+         "Pts Total": 162.5
+       },
+       {
+         "Name": "Adam Thielen",
+         "Position": "Wide Receiver",
+         "Team": "Minnesota",
+         "Number": 19,
+         "Joining Date": 2013,
+         "Pts Total": 153.2
+       },
+       {
+         "Name": "Sony Michel",
+         "Position": "Running Back",
+         "Team": "New England",
+         "Number": 26,
+         "Joining Date": 2018,
+         "Pts Total": 68.8
+       },
+       {
+         "Name": "Robert Woods",
+         "Position": "Wide Receiver",
+         "Team": "Los Angeles",
+         "Number": 17,
+         "Joining Date": 2013,
+         "Pts Total": 114.8
+       },
+       {
+         "Name": "Justin Tucker",
+         "Position": "Kicker",
+         "Team": "Baltimore",
+         "Number": 9,
+         "Joining Date": 2012,
+         "Pts Total": 59
+       },
+       {
+         "Name": "Carson Wentz",
+         "Position": "Quarterback",
+         "Team": "Philadelphia",
+         "Number": 11,
+         "Joining Date": 2016,
+         "Pts Total": 77.5
+       },
+       {
+         "Name": "Aaron Jones",
+         "Position": "Running Back",
+         "Team": "Green Bay",
+         "Number": 33,
+         "Joining Date": 2017,
+         "Pts Total": 32.9
+       },
+       {
+         "Name": "Jimmy Graham",
+         "Position": "Tight End",
+         "Team": "Green Bay",
+         "Number": 80,
+         "Joining Date": 2010,
+         "Pts Total": 67.9
+       },
+       {
+         "Name": "Calvin Ridley",
+         "Position": "Wide Receiver",
+         "Team": "Atlanta",
+         "Number": 18,
+         "Joining Date": 2018,
+         "Pts Total": 94.2
+       },
+       {
+         "Name": "Nyheim Hines",
+         "Position": "Running Back",
+         "Team": "Indianapolis",
+         "Number": 21,
+         "Joining Date": 2018,
+         "Pts Total": 78.8
+       },
+       {
+         "Name": "Golden Tate",
+         "Position": "Wide Receiver",
+         "Team": "Detroit",
+         "Number": 15,
+         "Joining Date": 2010,
+         "Pts Total": 95
+       },
+       {
+         "Name": "Aaron Rodgers",
+         "Position": "Quarterback",
+         "Team": "Green Bay",
+         "Number": 12,
+         "Joining Date": 2005,
+         "Pts Total": 133
+       },
+       {
+         "Name": "Devante Adams",
+         "Position": "Wide Receiver",
+         "Team": "Green Bay",
+         "Number": 17,
+         "Joining Date": 2013,
+         "Pts Total": 138.7
+       }
+   ]
+}   
