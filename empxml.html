@@ -13,7 +13,7 @@
        var t = $('#chart').DataTable();
        $.ajax({
             type: "GET",
-            url: "altdata.xml", 
+            url: "empdata.xml", 
             dataType: "xml",
             success: function(xml) {  
              $(xml).find('data').each(function(){  
