@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "Kirk Cousins",
-      "designation": "QuarterBack",
+      "Position": "QuarterBack",
       "salary": "127.3",
       "joining_date": "2011",
       "office": "Minnesota",
@@ -10,7 +10,7 @@
     },
     {
       "name": "Deandre Hopkins",
-      "designation": "Wide Receiver",
+      "Position": "Wide Receiver",
       "salary": "125",
       "joining_date": "2013",
       "office": "Houston",
@@ -18,7 +18,7 @@
     },
     {
       "name": "Melvin Gordon",
-      "designation": "Running Back",
+      "Position": "Running Back",
       "salary": "162.5",
       "joining_date": "2015",
       "office": "San Diego",
@@ -26,7 +26,7 @@
     },
     {
       "name": "Adam Thielen",
-      "designation": "Wide Receiver",
+      "Position": "Wide Receiver",
       "salary": "153.2",
       "joining_date": "2013",
       "office": "Minnesota",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Sony Michel",
-      "designation": "Running Back",
+      "Position": "Running Back",
       "salary": "68.8",
       "joining_date": "2018",
       "office": "New England",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Robert Woods",
-      "designation": "Wide Receiver",
+      "Position": "Wide Receiver",
       "salary": "114.8",
       "joining_date": "2013",
       "office": "Los Angeles",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Justin Tucker",
-      "designation": "Kicker",
+      "Position": "Kicker",
       "salary": "59",
       "joining_date": "2012",
       "office": "Baltimore",
@@ -58,7 +58,7 @@
     },
     {
       "name": "Carson Wentz",
-      "designation": "QuarterBack",
+      "Position": "QuarterBack",
       "salary": "77.5",
       "joining_date": "2016",
       "office": "Philadelphia",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Aaron Jones",
-      "designation": "Running Back",
+      "Position": "Running Back",
       "salary": "32.9",
       "joining_date": "2017",
       "office": "Green Bay",
@@ -74,7 +74,7 @@
     },
     {
       "name": "Jimmy Graham",
-      "designation": "Tight End",
+      "Position": "Tight End",
       "salary": "77.5",
       "joining_date": "2010",
       "office": "Green Bay",
@@ -82,7 +82,7 @@
     },
     {
       "name": "Calvin Ridley",
-      "designation": "Wide Receiver",
+      "Position": "Wide Receiver",
       "salary": "94.2",
       "joining_date": "2018",
       "office": "Atlanta",
@@ -90,7 +90,7 @@
     },
     {
       "name": "Nyheim Hines",
-      "designation": "Running",
+      "Position": "Running",
       "salary": "78.8",
       "joining_date": "2018",
       "office": "Indianapolis",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Golden Tate",
-      "designation": "Wide Receiver",
+      "Position": "Wide Receiver",
       "salary": "95",
       "joining_date": "2010",
       "office": "Detroit",
@@ -106,7 +106,7 @@
     },
     {
       "name": "Aaron Rodgers",
-      "designation": "QuarterBack",
+      "Position": "QuarterBack",
       "salary": "133",
       "joining_date": "2005",
       "office": "Green Bay",
@@ -114,7 +114,7 @@
     },
     {
       "name": "Devante Adams",
-      "designation": "Wide Receiver",
+      "Position": "Wide Receiver",
       "salary": "138.7",
       "joining_date": "2013",
       "office": "Green Bay",
